@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Container, Row, Col, Form, Button, Card, Alert } from 'react-bootstrap';
+import '@fortawesome/fontawesome-free/css/all.css';
 
 function Contact() {
     const [formData, setFormData] = useState({
