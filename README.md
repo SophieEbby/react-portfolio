@@ -21,13 +21,13 @@ This application uses React to build my portfolio website.
 ## Screenshots
 
 Home page:
-![Home page](assets/Home_Screenshot.png)
+![Home page](src/assets/Home_Screenshot.png)
 
 Project Gallery:
-![Project Gallery](assets/rp-portfolio-page-screenshot-all-fronts.png)
+![Project Gallery](src/assets/ProjectGallery_Screenshot.png)
 
 Contact page:
-![Contact Me page](assets/rp-contact-page-screenshot.png)
+![Contact Me page](src/assets/Contact_Screenshot.png)
 
 ## Usage
 
