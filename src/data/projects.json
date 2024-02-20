@@ -10,7 +10,7 @@
     {
         "id": 2,
         "title": "Personal Portfolio in Bootatrap",
-        c
+        "description": "",
         "deployedLink": "https://sophieebby.github.io/Bootstrap-SophieEbs-Portfolio/",
         "repoLink": "https://github.com/SophieEbby/Bootstrap-SophieEbs-Portfolio",
         "image": "/images/project2.png"
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "title": "Password Generator in JS",
-        "description": "A personal portfolio website created using HTML and CSS.",
+        "description": "",
         "deployedLink": "https://sophieebby.github.io/Password-Generator/",
         "repoLink": "https://github.com/SophieEbby/Password-Generator",
         "image": "/images/project3.png"
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "title": "Work Day Scheduler in jQuery",
-        "description": "A personal portfolio website created using HTML and CSS.",
+        "description": "",
         "deployedLink": "https://sophieebby.github.io/Sophie-Ebsworth-Work-Day-Scheduler/",
         "repoLink": "https://github.com/SophieEbby/Sophie-Ebsworth-Work-Day-Scheduler",
         "image": "/images/project4.png"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "title": "TravelEx with APIs",
-        "description": "A personal portfolio website created using HTML and CSS.",
+        "description": "",
         "deployedLink": "https://zhaolucas.github.io/travelEx/",
         "repoLink": "https://github.com/zhaolucas/travelEx",
         "image": "/images/project5.png"
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "title": "Harry Potter Quiz",
-        "description": "A personal portfolio website created using HTML and CSS.",
+        "description": "",
         "deployedLink": "https://sophieebby.github.io/Harry-Potter-Quiz/",
         "repoLink": "https://github.com/SophieEbby/Harry-Potter-Quiz",
         "image": "/images/project6.png"

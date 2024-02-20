@@ -1,6 +1,6 @@
 import React from 'react';
-import Project from '../components/Project';
-import projects from '../data/projects.json';
+import Project from '../Project';
+import projects from '../../data/projects.json';
 import { Row, Col } from 'react-bootstrap';
 
 function ProjectGallery() {

@@ -1,0 +1,64 @@
+:root {
+    --headerFont: 'Fredericka the Great', cursive;
+    --bodyFont: 'Open Sans', sans-serif;
+    --dkBlue: #00008b;
+    --ltBlue: #c7dbf3;
+    --translucentBgDk: rgba(0, 0, 0, 0.2);
+    --translucentBgDker: rgba(0, 0, 0, 0.5);
+    --translucentBgLt: rgba(255, 255, 255, 0.25);
+}
+
+body {
+    background-image: url("../../../public/images/Whitsundays.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+a {
+    color: var(--dkBlue);
+}
+
+h1 {
+    font-size: 42px;
+    font-family: var(--headerFont);
+    color: white;
+}
+
+h2 {
+    font-size: 36px;
+    font-family: var(--headerFont);
+}
+
+h3 {
+    font-size: 24px;
+    font-family: var(--headerFont);
+}
+
+li {
+    font-size: 16px;
+    font-family: var(--bodyFont);
+}
+
+p {
+    font-size: 18px;
+    font-family: var(--bodyFont);
+}
+
+.mypic {
+    border-radius: 50%;
+    padding: 20px;
+}
+
+.mypic,
+.choralepic {
+    max-width: 300px;
+    padding-right: 1.25em;
+}
+
+.flexCenter {
+    justify-content: center;
+}
+
+.card-body {
+    color: transparent;
+}
