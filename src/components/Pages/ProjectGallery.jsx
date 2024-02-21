@@ -12,6 +12,7 @@ function ProjectGallery() {
                     <h1>Take A Look At My Web Dev Projects!</h1>
                 </Col>
             </Row>
+            <Row></Row>
             <Row>
                 {projects.map(project => (
                     <Col sm={12} md={6} lg={4} className="mb-4" key={project.id}> {/* Adjust grid sizes as needed */}
