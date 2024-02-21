@@ -38,3 +38,7 @@ p {
 .flexCenter {
     justify-content: center;
 }
+
+.biotext {
+    color: white;
+}
