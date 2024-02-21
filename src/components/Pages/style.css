@@ -39,10 +39,7 @@ p {
     justify-content: center;
 }
 
-.biotext {
+.biotext, .heading1, .heading2 {
     color: white;
 }
 
-.heading1 {
-    color: white;
-}

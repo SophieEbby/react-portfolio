@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Container, Row, Col, Form, Button, Card, Alert } from 'react-bootstrap';
 import '@fortawesome/fontawesome-free/css/all.css';
+import "./style.css";
 
 function Contact() {
     const [formData, setFormData] = useState({
@@ -31,7 +32,7 @@ function Contact() {
             <Row>
                 <Col sm={1}></Col>
                 <Col sm={10}>
-                    <h1>Contact Me!</h1>
+                    <h1 className="heading1">Contact Me!</h1>
                 </Col>
             </Row>
             <Row className="justify-content-center">

@@ -2,6 +2,7 @@ import React from 'react';
 import Project from '../Project';
 import projects from '../../data/projects.json';
 import { Row, Col } from 'react-bootstrap';
+import "./style.css";
 
 function ProjectGallery() {
     return (
@@ -9,7 +10,7 @@ function ProjectGallery() {
             <Row>
                 <Col sm={1}></Col>
                 <Col sm={10}>
-                    <h1>Take A Look At My Web Dev Projects!</h1>
+                    <h1 className="heading1">Take A Look At My Web Dev Projects!</h1>
                 </Col>
             </Row>
             <Row>
