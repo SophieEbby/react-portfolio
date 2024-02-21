@@ -5,7 +5,7 @@
         "description": "My personal portfolio website created using HTML and CSS",
         "deployedLink": "https://sophieebby.github.io/Sophie-Ebsworth-Portfolio/",
         "repoLink": "https://github.com/SophieEbby/Sophie-Ebsworth-Portfolio",
-        "image": "../../../../public/images/project1.png"
+        "image": "./images/project1.png"
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "description": "My personal portfolio website created using Bootstrap",
         "deployedLink": "https://sophieebby.github.io/Bootstrap-SophieEbs-Portfolio/",
         "repoLink": "https://github.com/SophieEbby/Bootstrap-SophieEbs-Portfolio",
-        "image": "/images/project2.png"
+        "image": "./images/project2.png"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "description": "A generator to help a user to generator a Password",
         "deployedLink": "https://sophieebby.github.io/Password-Generator/",
         "repoLink": "https://github.com/SophieEbby/Password-Generator",
-        "image": "/images/project3.png"
+        "image": "./images/project3.png"
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "description": "Work Day Scheduler that allows users to save events for each hour between 9am to 5pm.",
         "deployedLink": "https://sophieebby.github.io/Sophie-Ebsworth-Work-Day-Scheduler/",
         "repoLink": "https://github.com/SophieEbby/Sophie-Ebsworth-Work-Day-Scheduler",
-        "image": "/images/project4.png"
+        "image": "./images/project4.png"
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "description": "TravelEx allows users to book hotels and see the currency exchange rate.",
         "deployedLink": "https://zhaolucas.github.io/travelEx/",
         "repoLink": "https://github.com/zhaolucas/travelEx",
-        "image": "/images/project5.png"
+        "image": "./images/project5.png"
     },
     {
         "id": 6,
@@ -45,6 +45,6 @@
         "description": "A multiple choice quiz all about Harry Potter.",
         "deployedLink": "https://sophieebby.github.io/Harry-Potter-Quiz/",
         "repoLink": "https://github.com/SophieEbby/Harry-Potter-Quiz",
-        "image": "/images/project6.png"
+        "image": "./images/project6.png"
     }
 ]
