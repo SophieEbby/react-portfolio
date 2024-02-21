@@ -5,7 +5,7 @@
         "description": "My personal portfolio website created using HTML and CSS",
         "deployedLink": "https://sophieebby.github.io/Sophie-Ebsworth-Portfolio/",
         "repoLink": "https://github.com/SophieEbby/Sophie-Ebsworth-Portfolio",
-        "image": "/images/project1.png"
+        "image": "./public/images/mugshot.jpg"
     },
     {
         "id": 2,
