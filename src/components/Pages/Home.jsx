@@ -23,7 +23,7 @@ function Home() {
                     <Image fluid src={mypic} alt="Sophie Ebsworth" className="mypic float-left" />
                     <h2 className="heading2">About me</h2>
                     <p className="biotext">I am a 29 year old female, living on the Gold Coast, Australia recently relocated from Southampton, England. I am a qualifed SCADA Engineer, having spent 10 years developing control systems for various industries such as Railway, Airports and Water for UK and International Projects. I have a First Class BSc (Hons) in Electrical and Electronic Engineering from the <a href="https://www.derby.ac.uk/" rel="noreferrer noopener" target="_blank">University of Derby</a>  and I gained my further education through a <a href="https://www.siemens.com/global/en.html" rel="noreferrer noopener" target="_blank">Siemens</a> apprenticeship. I am now looking to develop my skills further and become a Front End Developer. </p>
-                    <Button variant="primary" href={mycv}download="SophieEbsworth_CV.pdf">Download CV</Button>
+                    <Button variant="primary" href={mycv}download="Sophie Ebsworth CV.pdf">Download CV</Button>
                 </Col>
             </Row>
         </Container>
