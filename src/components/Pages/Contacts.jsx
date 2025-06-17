@@ -41,7 +41,7 @@ function Contact() {
                         <Card.Body>
                             <Card.Title>Contact Information</Card.Title>
                             <p>Email: sophieebsworth@hotmail.co.uk</p>
-                            <p>Phone: +447738184182</p>
+                            <p>Phone: +61 477 554 155</p>
                         </Card.Body>
                     </Card>
 
